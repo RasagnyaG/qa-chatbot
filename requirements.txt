@@ -1,0 +1,7 @@
+langchain 
+faiss-cpu 
+huggingface-hub 
+langchain_community 
+pypdf
+transformers 
+sentence-transformers
