@@ -9,7 +9,7 @@ Original file is located at
 
 ## RAG Application With GPT-4o
 
-!pip install langchain faiss-cpu huggingface-hub langchain_community pypdf transformers sentence-transformers
+# !pip install langchain faiss-cpu huggingface-hub langchain_community pypdf transformers sentence-transformers
 
 """# 1. Get a Data Loader
 
